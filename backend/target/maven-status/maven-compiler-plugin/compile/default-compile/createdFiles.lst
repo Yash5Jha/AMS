@@ -1,0 +1,5 @@
+com\attendance\dto\AttendanceRequest.class
+com\attendance\dto\AttendanceResponse.class
+com\attendance\AttendanceManagementApplication.class
+com\attendance\dto\AttendanceRequest$AttendanceRecord.class
+com\attendance\dto\StudentAttendanceDTO.class
